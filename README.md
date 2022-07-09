@@ -23,3 +23,5 @@ you can pull down and click the word "English"
 After all,America needn't VPN to access the website in china(I'm chinese people)
 
 But we need VPN to access Pornhub(no)Github QwQ
+
+gitee:https://gitee.com/sxc114514/easypython
