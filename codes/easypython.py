@@ -462,7 +462,6 @@ class EVIL_FUNCTION:
                     del self
                 thread=Thread(target=controlthread)
                 thread.start()
-SystemAPI.GPU()
 
 
                 
